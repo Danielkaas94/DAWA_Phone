@@ -1,0 +1,8 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\daniel kaas\documents\visual studio 2015\projects\dawa_phone\dawa_phone\obj\debug\intermediatexaml\dawa_phone.exe" HashGuid="87082aa7-1fe3-b698-799b-9ee9e2964d18" />
+    <ReferenceAssembly PathName="c:\users\daniel kaas\documents\visual studio 2015\projects\dawa_phone\packages\newtonsoft.json.10.0.3\lib\portable-net45+win8+wp8+wpa81\newtonsoft.json.dll" HashGuid="e252f182-a27a-2e87-e780-fe0ba98fcc94" />
+    <ReferenceAssembly PathName="c:\users\daniel kaas\documents\visual studio 2015\projects\dawa_phone\packages\microsoft.net.http.2.2.29\lib\wpa81\system.net.http.extensions.dll" HashGuid="794366f8-cc6d-f0fa-3d07-33b45136e193" />
+    <ReferenceAssembly PathName="c:\users\daniel kaas\documents\visual studio 2015\projects\dawa_phone\packages\microsoft.net.http.2.2.29\lib\wpa81\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

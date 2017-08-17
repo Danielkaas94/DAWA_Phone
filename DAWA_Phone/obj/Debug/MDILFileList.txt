@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Files><file>\DAWA_Phone.exe</file><file>\Newtonsoft.Json.dll</file><file>\System.Net.Http.Extensions.dll</file><file>\System.Net.Http.Primitives.dll</file></Files>
